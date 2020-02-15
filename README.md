@@ -1,4 +1,5 @@
-# FlickeringSART
+## Are you concerned and worried?
+## Welcome to our experiment
 
 Hi all,
 
@@ -34,4 +35,4 @@ Bernoulliborg 240, Nijenborgh 9, 9747 AG, Groningen
 
 **Interested in participating?**
 
-We are constantly looking for people who are more vulnerable to personal worries and ruminations to participate in our experiments. But you will also be welcomed if you are not. If you are interested in participating, please contact us by E-mail: hang.yang@rug.nl. We're going to start from the 10-min online questionnaire!
+We are constantly looking for people who are more vulnerable to personal worries and ruminations to participate in our experiments. But you will definitely be welcomed if you are not. If you are interested in participating, please contact us by E-mail: hang.yang@rug.nl. We're going to start from the 10-min online questionnaire!
