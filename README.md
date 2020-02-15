@@ -26,7 +26,9 @@ You will first perform an experiment in which you will make simple decisions abo
 **Requirements:**
 
 Proficient in English(C1 or above)
+
 Adult: 16 years and older
+
 No history of epilepsy
 
 **Location:**
