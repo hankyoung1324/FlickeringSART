@@ -25,7 +25,7 @@ You will first perform an experiment in which you will make simple decisions abo
 
 **Requirements:**
 
-Proficient in English(C1 or above)
+Proficient in English(C1 level or above)
 
 Adult: 16 years and older
 
@@ -33,8 +33,10 @@ No history of epilepsy
 
 **Location:**
 
-Bernoulliborg 240, Nijenborgh 9, 9747 AG, Groningen
+Bernoulliborg 280, Nijenborgh 9, 9747 AG, Groningen
 
 **Interested in participating?**
 
 We are constantly looking for people who are more vulnerable to personal worries and ruminations to participate in our experiments. But you will definitely be welcomed if you are not. If you are interested in participating, please contact us by E-mail: hang.yang@rug.nl. We're going to start from the 10-min online questionnaire!
+
+
