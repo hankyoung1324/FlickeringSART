@@ -39,4 +39,4 @@ Bernoulliborg 280, Nijenborgh 9, 9747 AG, Groningen
 
 We are constantly looking for people who are more vulnerable to personal worries and ruminations to participate in our experiments. But you will definitely be welcomed if you are not. If you are interested in participating, please contact us by E-mail: hang.yang@rug.nl. We're going to start from the 10-min online questionnaire!
 
-
+![Image of Yaktocat](https://github.com/hankyoung1324/FlickeringSART/blob/master/recruitmentPoster_corona.jpg)
