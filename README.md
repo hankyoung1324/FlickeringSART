@@ -1,6 +1,8 @@
 ## Are you concerned and worried?
 ## Welcome to our experiment!
 
+![Image of Yaktocat](https://github.com/hankyoung1324/FlickeringSART/blob/master/recruitmentPoster_corona.jpg)
+
 Hi all,
 
 We are looking for a large amount of participants who will be available in the upcoming months and are willing to help with our experiment. To participate in the experiment, you have to fill in a short online questionnaire which will take you less than 10 minutes. We will select among all the participants who filled in the questionnaire for the real experiment. If you are not selected, you will be rewarded 3 euros for filling in the questionnaire. And if selected, you will be invited to join the experiment! (Before filling in the questionnaire, please make sure that you will be able to join in the next two months. If you are selected but couldn’t attend the experiment, unfortunately no reward will be offered.)
@@ -39,4 +41,3 @@ Bernoulliborg 280, Nijenborgh 9, 9747 AG, Groningen
 
 We are constantly looking for people who are more vulnerable to personal worries and ruminations to participate in our experiments. But you will definitely be welcomed if you are not. If you are interested in participating, please contact us by E-mail: hang.yang@rug.nl. We're going to start from the 10-min online questionnaire!
 
-![Image of Yaktocat](https://github.com/hankyoung1324/FlickeringSART/blob/master/recruitmentPoster_corona.jpg)
