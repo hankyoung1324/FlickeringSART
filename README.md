@@ -9,7 +9,7 @@ For the real experiment, the information is listed as below:
 
 **Time:**
 
-February & March (The specific schedule will be provided after being selected)
+July (The specific schedule will be provided after being selected)
 
 **Duration:**
 
